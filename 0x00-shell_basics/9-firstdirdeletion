@@ -1,5 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 sudo rmdir /tmp/my_first_directory
-
-
