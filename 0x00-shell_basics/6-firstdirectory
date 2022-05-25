@@ -1,2 +1,2 @@
 #!/bin/bash
-midir /tmp/my_first_directory
+mkdir /tmp/my_first_directory
