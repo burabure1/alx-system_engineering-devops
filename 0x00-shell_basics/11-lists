@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -A -A / -A /root
 ls -A<<ls -A /<<ls -A /root
