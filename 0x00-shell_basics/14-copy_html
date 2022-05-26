@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.htlm /alx-system_engineering_engineering-devops
+cp *.html /alx-system_engineering_engineering-devops
