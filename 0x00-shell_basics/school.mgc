@@ -1,2 +1,3 @@
 #!/bin/bash
-type touch school.mgc                                       type vi school.mgc                                                 press i                                                          and type                                                                  #!/bin/bash                                                     0 string SCHOOL school data                                                               !:mine school                         press escape and type :wp and press enter                                       type file -C -m school.mrg                                                        git add .                                        git commit -m "fdds"                                   git push
+0 string SCHOOL School data
+!:mime School
